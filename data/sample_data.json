@@ -1,0 +1,27 @@
+{
+  "vital": ["blood pressure", "oxygen", "temperature", "heart rate"],
+  "status": ["slightly high", "a bit low", "within safe range", "stable"],
+  "minutes": [15, 30, 45, 60],
+  "symptom": ["pain", "dizziness", "shortness of breath", "nausea", "headache", "chest pain"],
+  "medication": ["antibiotic", "insulin", "painkiller", "IV fluids"],
+  "route": ["oral tablet", "IV line", "injection"],
+  "feeling": ["dizzy", "weak", "anxious", "lightheaded", "scared", "afraid", "panicked"],
+  "procedure": ["MRI scan", "surgery", "dialysis", "X-ray"],
+  "time": ["10 AM", "2 PM", "evening", "morning"],
+  "name": ["Smith", "Lee", "Patel", "Brown"],
+  "emotion": ["anxious", "tired", "frustrated", "relieved", "worried"],
+  "treatment": ["wound care", "oxygen therapy", "mobility exercise", "diet plan"],
+  "device": ["spirometer", "walker", "oxygen mask", "heart monitor"],
+  "hours": [2, 4, 6],
+  "restriction": ["lifting weights", "running", "driving"],
+  "days": [3, 5, 7, 10],
+  "action": ["washes hands", "adjusts IV pump", "checks monitor", "writes in chart"],
+  "reaction": ["grimaces", "smiles", "nods", "coughs", "tries to stand", "cries"],
+  "event": ["alarm beeps", "doctor enters room", "nurse explains procedure"],
+  "exercise": ["walking", "deep breathing", "arm stretches", "leg lifts"],
+  "test": ["blood test", "ECG", "CT scan", "MRI report", "urine analysis", "liver function test", "kidney profile", "blood sugar test", "cholesterol screening", "CBC (complete blood count)", "thyroid panel", "pregnancy test", "COVID-19 swab", "allergy test", "stool culture"],
+  "scan": ["MRI", "X-ray", "ultrasound", "CT scan", "PET scan", "echocardiogram", "mammogram", "bone density scan", "spinal MRI", "head CT", "chest X-ray", "abdominal ultrasound", "dental X-ray", "angiography", "colonoscopy"],
+  "care": ["home care", "rehab care", "palliative care", "intensive care", "critical care", "neonatal care", "elderly care", "emergency care", "day care (outpatient)", "maternity care", "long-term care", "hospice care", "mental health support", "follow-up care", "physiotherapy care"],
+  "department": ["ICU", "ER", "Surgical", "Oncology", "Pediatrics", "Cardiology"]
+
+}
